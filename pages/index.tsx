@@ -41,10 +41,6 @@ export default function Home() {
         <div style={{
           textAlign: "left"
         }}>
-          Privacy:<br/>
-<br/>
-        I am saving nothing and the only thing that could be is Google, because the site is hosted on Firebase<br/>
-<br/>
         Impressum:<br/>
 <br/>
         Verantwortlich im Sinne der Gesetzgebung bin ich. Ich betreibe diesen WWW-Server privat und ohne gewerblichen Interessen bzw. Angebote.<br/>
